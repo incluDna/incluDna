@@ -7,13 +7,21 @@ Profile
 * I am the one who full of passion✨. Like to try new things, to find what I like and good at.
   My aim is to create good things and happiness for myself and others.
 *   🎂  Birth date: 9/02/2006 (17 years old)
-*   
+* I'm interested in Digital Engineering, I want to be a Software developer.
 
 Student
 -------
 
-*   📍  Study at Samsenwittayalai School, Bangkok 🇹🇭
+*   📍  Study in English Program - Science, Samsenwittayalai School, Bangkok 🇹🇭 (GPAX 3.88)
 *   ✉️  You can contact me at [penpitchadna1@gmail.com](mailto:penpitchadna1@gmail.com)
+
+Achievements
+-------
+
+*   📃 Certificate of Credit (Top23%) Australian Mathematics Competition (AMC)
+*   📃 Consolation prize in Mathematics (2nd place of school) ASMO Thai Competition 2022
+*   📃 2nd place Science and technology quiz competition, Science day at Samsenwittayalai School
+*   🥉 Blonze prize 11th Thailand Mathematics Contest (TMC)
 
 Skill
 -------
