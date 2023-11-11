@@ -9,10 +9,12 @@ Profile
 *   🎂  Birth date: 9/02/2006 (17 years old)
 * I'm interested in Digital Engineering, I want to be a Software developer.
 
-Student
+Education
 -------
 
-*   📍  Study in English Program - Science, Samsenwittayalai School, Bangkok 🇹🇭 (GPAX 3.88)
+*   🎓  2012 Intensive Language Program (ILP), 2013-2017 Gifted Program at Patai Udom Suksa School (GPAX 4.00)
+*   🎓  2018-2020 English for Intigate Study (EIS), Samsenwittayalai School (GPAX 3.97)
+*   📍  2021-Now English Program - Science (EP-Sci), Samsenwittayalai School (GPAX 3.88)
 *   ✉️  You can contact me at [penpitchadna1@gmail.com](mailto:penpitchadna1@gmail.com)
 
 Achievements
