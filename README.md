@@ -1,7 +1,7 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! My name is Penpitcha Piyawaranont (Deena)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"> Hello! My name is Penpitcha Piyawaranont (Deena)
 ================================================================================================================================
 
-Profile
+Profile <img src="https://media.giphy.com/media/DPLASSLj6EPgAOxmHm/giphy.gif" width="42">
 -------
 
 * I am the one who full of passion✨. Like to try new things, to find what I like and good at.
