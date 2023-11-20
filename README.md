@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"> Hello! My name is Penpitcha Piyawaranont (Deena) <img src="https://github.com/incluDna/incluDna/assets/135194778/f697eff0-a985-4f38-b714-d0ac4a084a11" width="45">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"> Hello! My name is Penpitcha Piyawaranont (Deena)
 ================================================================================================================================
 
 Profile
