@@ -23,7 +23,7 @@ Achievements
 *   📃 Certificate of Credit (Top23%) Australian Mathematics Competition (AMC)
 *   📃 Consolation prize in Mathematics (2nd place of school) ASMO Thai Competition 2022
 *   📃 3rd place Science and technology quiz competition, Science day at Samsenwittayalai School
-*   🥉 Blonze prize 11th Thailand Mathematics Contest (TMC)
+*   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
 
 Skill
 -------
