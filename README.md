@@ -4,7 +4,7 @@
 Profile
 -------
 
-* I am the one who full of passion✨. Like to try new things, to find what I like and good at.
+* I am the one who is full of passion✨. Like to try new things, to find what I like and good at.
   My aim is to create good things and happiness for myself and others.
 *   🎂  Birth date: 9/02/2006 (17 years old)
 * I'm interested in Digital Engineering, I want to be a Software developer.
