@@ -8,6 +8,7 @@ Profile
   My aim is to create good things and happiness for myself and others.
 *   🎂  Birth date: 9/02/2006 (17 years old)
 * I'm interested in Digital Engineering, I want to be a Software developer.
+     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVudWhmZDdiN2NmYTJsemJobjkzeG9kNHN3emh1NHE4eWFyMTAyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="100;" height="100;">
 
 Education
 -------
@@ -132,6 +133,6 @@ Freshmen life @Chula <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1i
       <td colspan="17"></td>
     </tr>
    </table>
-
+   
 
                     
