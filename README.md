@@ -12,11 +12,8 @@ Profile
 
 Education
 -------
-
-*   🎓  2012 Intensive Language Program (ILP), 2013-2017 Gifted Program at Patai Udom Suksa School (GPAX 4.00)
-*   🎓  2018-2020 English for Integrate Study (EIS), Samsenwittayalai School (GPAX 3.97)
 *   🎓  2021-2024 English Program - Science (EP-Sci), Samsenwittayalai School (GPAX 3.88)
-*   📍  2024-Now Faculty of Computer Engineering and Digital Technology (CEDT), Chula
+*   📍  2024-Now Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
 *   ✉️  You can contact me at [penpitchadna1@gmail.com](mailto:penpitchadna1@gmail.com)
 
 Achievements
