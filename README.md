@@ -19,10 +19,10 @@ Education
 Achievements
 -------
 
+*   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
 *   📃 Certificate of Credit (Top23%) Australian Mathematics Competition (AMC)
 *   📃 Consolation prize in Mathematics (2nd place of school) ASMO Thai Competition 2022
 *   📃 3rd place Science and technology quiz competition, at Samsenwittayalai School
-*   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
 
 ![IncluDna's GitHub stats](https://github-readme-stats.vercel.app/api?username=incluDna&show_icons=true&theme=radical)
 
