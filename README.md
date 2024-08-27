@@ -34,7 +34,7 @@ Skills
 
 Badge
 ------
-<img src="https://github.com/user-attachments/assets/d50e8597-9432-49ec-be48-f66d19bedb22" height="100" width="100"/></a>
+<img src="https://github.com/user-attachments/assets/d50e8597-9432-49ec-be48-f66d19bedb22" height="110" width="110"/></a>
 
 Freshmen life @Chula <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1iemtvOTNxd2dobWVsaTFxZGczeXB5ODA2ODhxejUyYW4ybnF2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1bdU6YHKp63eDdWb/giphy.gif" width="40">
 ---
