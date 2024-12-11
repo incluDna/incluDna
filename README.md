@@ -14,7 +14,7 @@ Education
 -------
 *   🎓  2021-2024 English Program - Science (EP-Sci), Samsenwittayalai School
 *   📍  2024-Now Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
-*   ✉️  You can contact me at [penpitchadna1@gmail.com](mailto:penpitchadna1@gmail.com)
+*   ✉️  You can contact me at [penpitchadna1@gmail.com](mailto:penpitchadna1@gmail.com) [6733185821@student.chula.ac.th](6733185821@student.chula.ac.th)
 
 Achievements
 -------
