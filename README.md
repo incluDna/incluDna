@@ -18,9 +18,9 @@ Education
 Project / Past achievements
 -------
 
-*   Deenager: Learning spaces & Productivity (web)
-*   Kazein: all stages of retirement (web & app)
-*   DayZ webpage: Survey interested of DayZ in real life (in Thailand)
+*   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
+*   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
+*   [DayZ webpage](https://app.gitbook.com/o/AM9zQoMFPsjRGqzItD9B/s/kE4S0ibDf6CxTz7jx67v/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thaialnd | from DayZ Challenge, Greece
 *   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
   
 
