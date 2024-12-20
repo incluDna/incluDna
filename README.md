@@ -4,10 +4,9 @@
 Profile
 -------
 
-*   🎂  Birth date: 9/02/2006 (18 years old)
-* I am the one who is full of passion✨. Like to try new things, to find what I like and am good at.
-  My aim is to create good things and happiness for myself and others.
-* I'm interested in Digital Engineering, I want to be a Software developer. << `me in 2023`
+*   I am a person who likes to learn new things✨, find experiences and communicate to people. To gain perspectives and knowledge to develop and create good things and happiness for myself and others.
+*   Interested in `web dev`, `data science`, `data & business analysis`, `cyber security`, and `software testing`
+*   🎂  Birth date: 09/02/2006 (18 years old)
 
 Education
 -------
@@ -20,7 +19,7 @@ Project / Past achievements
 
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
-*   [DayZ webpage](https://app.gitbook.com/o/AM9zQoMFPsjRGqzItD9B/s/kE4S0ibDf6CxTz7jx67v/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thaialnd | from DayZ Challenge, Greece
+*   [DayZ webpage](https://app.gitbook.com/o/AM9zQoMFPsjRGqzItD9B/s/kE4S0ibDf6CxTz7jx67v/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
 *   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
   
 
