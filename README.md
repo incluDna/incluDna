@@ -19,7 +19,7 @@ Project / Past achievements
 
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
-*   [DayZ webpage](https://app.gitbook.com/o/AM9zQoMFPsjRGqzItD9B/s/kE4S0ibDf6CxTz7jx67v/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
+*   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
 *   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
 
 Skills
