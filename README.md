@@ -6,6 +6,7 @@ Profile
 
 *   I am a person who likes to learn new things✨, find experiences and communicate to people. To gain perspectives and knowledge to develop and create good things and happiness for myself and others.
 *   Interested in `web dev`, `data science`, `data & business analysis`, `cyber security`, and `software testing`
+*   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
 *   🎂  Birth date: 09/02/2006 (18 years old)
 
 Education
@@ -14,12 +15,13 @@ Education
 *   📍  2024-Now Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
 *   ✉️  You can contact me at [6733185821@student.chula.ac.th](mailto:6733185821@student.chula.ac.th)
 
-Project / Past achievements
+Projects / Past achievements
 -------
 
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
 *   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
+*   [School projects](https://github.com/stars/incluDna/lists/school-projects): [TedXcybersecurity](https://github.com/incluDna/Tedtalk_Cybersecurity), [SS-delivery](https://github.com/incluDna/Samsen-Minimart-System-Services), [DustyPop-business plan](https://github.com/incluDna/DustyPop_production/blob/main/Coffee%20Ground%20Dishwashing%20Liquid_Dusty%20Pop_Project%20Progress%20Report.pdf)
 *   🥉 Bronze prize 11th Thailand Mathematics Contest (TMC)
 
 Skills
@@ -31,5 +33,3 @@ Skills
 Badge
 ------
 <img src="https://github.com/user-attachments/assets/d50e8597-9432-49ec-be48-f66d19bedb22" height="110" width="110"/></a>
-
-
