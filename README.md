@@ -7,7 +7,7 @@ Profile
 *   I am a person who likes to learn new things✨, find experiences and communicate to people. To gain perspectives and knowledge to develop and create good things and happiness for myself and others.
 *   Interested in `web dev`, `data science`, `data & business analysis`, `cyber security`, and `software testing`
 *   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
-*   🎂  Birth date: 09/02/2006 (18 years old)
+*   🎂  Birth date: 09/02/2006 (19 years old)
 
 Education
 -------
