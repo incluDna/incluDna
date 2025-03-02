@@ -5,11 +5,10 @@
 *   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
 *   You can contact me at ✉️ [6733185821@student.chula.ac.th](mailto:6733185821@student.chula.ac.th)
 
-### Projects
+### Projects | [e-portfolio](https://e-portfolio.gitbook.io/cedt.intern01)
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
 *   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
-*   [e-portfolio](https://e-portfolio.gitbook.io/cedt.intern01)
 
 ### Skills & badge
 <p align="left">
