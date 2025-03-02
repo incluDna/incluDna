@@ -9,7 +9,6 @@
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
 *   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece
-*   [School projects](https://github.com/stars/incluDna/lists/school-projects): [TedXcybersecurity](https://github.com/incluDna/Tedtalk_Cybersecurity), [SS-delivery](https://github.com/incluDna/Samsen-Minimart-System-Services), [DustyPop-business plan](https://github.com/incluDna/DustyPop_production/blob/main/Coffee%20Ground%20Dishwashing%20Liquid_Dusty%20Pop_Project%20Progress%20Report.pdf)
 
 ### Skills & badge
 <p align="left">
