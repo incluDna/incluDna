@@ -8,7 +8,7 @@
 ### Projects | [e-portfolio](https://e-portfolio.gitbook.io/cedt.intern01)
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein.alpha): All stages of retirement (web & app)
-*   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece [Under maintenance]
+*   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece `Under maintenance`
   
 ### Skills
 <p align="left">
