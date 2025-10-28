@@ -2,6 +2,7 @@
 
 *   19 yrs old, studies in Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
 *   Interested in `web dev`, `data science`, `data & business analysis`
+*   Ex-intern: R&D, NITMX
 *   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
 *   You can contact me at ✉️ [6733185821@student.chula.ac.th](mailto:6733185821@student.chula.ac.th)
   
