@@ -1,6 +1,6 @@
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello! I'm Penpitcha Piyawaranont (Deena)</h2>
 
-*   19 yrs old, studies in Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
+*   20 yrs old, studies in Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
 *   Interested in `web dev`, `data science + AI/ML`, `data & business analysis`
 *   Ex-intern: R&D, NITMX
 *   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
