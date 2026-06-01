@@ -3,13 +3,14 @@
 *   20 yrs old, studies in Faculty of Computer Engineering and Digital Technology (CEDT), Chula U.
 *   Interested in `web dev`, `data science + AI/ML`, `data & business analysis`
 *   Internship: (2025) R&D, NITMX
-*   Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
+*   Founder of [solar.s0ng](https://www.instagram.com/solar.s0ngg?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+*   Founder & Part-time Music producer [@nonscope.official](https://www.youtube.com/@nonscope.official)
 *   You can contact me at ✉️ [6733185821@student.chula.ac.th](mailto:6733185821@student.chula.ac.th)
   
 ### Projects | [e-portfolio](https://e-portfolio.gitbook.io/cedt.intern01)
 *   [Deenager](https://github.com/incluDna/Deenager_elements/): Learning spaces & Productivity (web)
 *   [Kazein](https://github.com/incluDna/kazein_beta): All stages of retirement (web & app)
-*   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece `Under maintenance`
+<!--*   [DayZ webpage](https://e-portfolio.gitbook.io/cedt.intern01/webs/dayz-webpage): Intro & Survey form of DayZ reallife survival game in Thailand | from DayZ Challenge, Greece `Under maintenance` -->
 
 <!-- <p align="left">
  Skills
